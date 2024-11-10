@@ -1,0 +1,61 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+
+}
+
+.navbar-brand {
+    font-family: 'Lobster', regular;
+    font-size: 37pt;
+    font-weight: 400;
+}
+
+.nav-text{
+    font-size: 16pt;
+}
+
+.bg-color {
+    background-color: #373A3C;
+}
+
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    width: 13px;
+    height: 13px;
+    background-color: #373A3C;
+}
+
+.carousel-indicators {
+    top: 240px;
+}
+
+.receta1 {
+    font-size: 20pt;
+    font-weight: 733;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+.newsletter {
+    background-color: #DC3545;
+}
+
+.logo-footer {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+.footer-rojo {
+    font-size: 30px;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    font-weight: 400;
+}
